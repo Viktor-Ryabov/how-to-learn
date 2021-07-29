@@ -1,0 +1,10 @@
+.footer__list-item {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.footer__list-item:last-child {
+    margin-bottom: 0;
+}
